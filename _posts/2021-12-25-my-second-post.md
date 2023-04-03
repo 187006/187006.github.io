@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to IoT and Cyber Security
-subtitle: Each post also has a subtitle
+subtitle: 
 categories: Iot
 tags: Iot
 ---
