@@ -9,7 +9,7 @@ tags: [iot]
 ## Resources
 
 
-#Reflection
+# Reflection
 
 Since I had no prior knowledge of the tasks at hand and had no idea how to proceed, I initially ran into a number of obstacles that I found difficult to overcome. I didn't know exactly what was expected of me, and some of the tasks were so foreign to me that it took a lot of effort for me to understand them.
 BUt with a lot of research and testing, I was able to solve the problems, and everything worked out in the end.
