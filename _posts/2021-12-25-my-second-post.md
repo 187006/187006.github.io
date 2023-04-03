@@ -25,4 +25,4 @@ tools that are using in designing IoT.
 
 
 
-![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
+![datacamp certification](/assets/images/banners/intro.jpg)
