@@ -33,10 +33,12 @@ I must admit that learning new material, especially in this field where I don't 
       
 #Pitucres from the lab
 
-
-
-
-
+![datacamp certification](/assets/images/banners/dig.png)
+![datacamp certification](/assets/images/banners/digMX.png)
+![datacamp certification](/assets/images/banners/nslooktype=ns.png)
+![datacamp certification](/assets/images/banners/nslookup.png)
+![datacamp certification](/assets/images/banners/tracerout.png)
+![datacamp certification](/assets/images/banners/whois.png)
 
 
 
