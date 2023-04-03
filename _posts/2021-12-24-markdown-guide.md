@@ -33,12 +33,12 @@ I must admit that learning new material, especially in this field where I don't 
       
 #Pitucres from the lab
 
-![datacamp certification](/assets/images/banners/lab1/dig.png)
-![datacamp certification](/assets/images/banners/lab1/digMX.png)
-![datacamp certification](/assets/images/banners/lab1/nslooktype=ns.png)
-![datacamp certification](/assets/images/banners/lab1/nslookup.png)
-![datacamp certification](/assets/images/banners/lab1/tracerout.png)
-![datacamp certification](/assets/images/banners/lab1/whois.png)
+![datacamp certification](/assets/images/banners/lab 1/dig.png)
+![datacamp certification](/assets/images/banners/lab 1/digMX.png)
+![datacamp certification](/assets/images/banners/lab 1/nslooktype=ns.png)
+![datacamp certification](/assets/images/banners/lab 1/nslookup.png)
+![datacamp certification](/assets/images/banners/lab 1/tracerout.png)
+![datacamp certification](/assets/images/banners/lab 1/whois.png)
 
 
 
