@@ -3,7 +3,7 @@
 
 
 
-|PProject |Best Elevator|
+|Project |Best Elevator|
 |:-----------|:-----------|
 |Increase customer loyalty|Restrict the quantity of data that may be accessed online.-|
 |Improve service maintenance and predictive maintenance |Creating a payload and bundling it with an exploit|- 
