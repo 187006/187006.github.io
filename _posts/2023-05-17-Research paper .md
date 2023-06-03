@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: Introduction to IoT and Cyber Security
+subtitle: 
+categories: cyper
+tags: Cybersecurity
+---
 
 refrence:
 https://lms22-23spring.emu.edu.tr/pluginfile.php/162698/mod_resource/content/1/DigitalisationWCE2018_pp341-346%281%29.pdf
