@@ -16,10 +16,6 @@
 
 ![datacamp certification](/assets/images/banners/labactivity1/w7.png)
 
-![datacamp certification](/assets/images/banners/labactivity1/v8.png)
-
-![datacamp certification](/assets/images/banners/labactivity1/v9.png)
-
 ![datacamp certification](/assets/images/banners/labactivity1/v10.png)
 
 ![datacamp certification](/assets/images/banners/labactivity1/v11.png)
