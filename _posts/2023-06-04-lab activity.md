@@ -2,9 +2,9 @@
 
 
 
-![datacamp certification](/assets/images/banners/labactivity1/1.jpg)
+![datacamp certification](/assets/images/banners/labactivity1/1.png)
 
-![datacamp certification](/assets/images/banners/labactivity1/2.jpg)
+![datacamp certification](/assets/images/banners/labactivity1/2.png)
 
 ![datacamp certification](/assets/images/banners/labactivity1/3.jpg)
 
