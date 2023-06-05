@@ -1,3 +1,4 @@
+---
 layout: post
 title: Lab activity
 subtitle: Digitalisation
