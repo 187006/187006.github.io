@@ -9,10 +9,10 @@ tags: Cybersecurity
 refrence:
 https://lms22-23spring.emu.edu.tr/pluginfile.php/162698/mod_resource/content/1/DigitalisationWCE2018_pp341-346%281%29.pdf
 
-###Summary of the Research paper
+### Summary of the Research paper
 
 
-The information you are reading is the introduction to a research paper on "Cyber Security Challenges in the Digital Economy." The article addresses the evolution of information security in the age of digital technology into cyber security as well as the rising risks that businesses must contend with. It highlights the necessity of strong security measures to fend against online threats.
+The Research paper addresses the evolution of information security in the age of digital technology into cyber security as well as the rising risks that businesses must contend with. It highlights the necessity of strong security measures to fend against online threats.
 Organizations are adopting various digital advancements like cloud computing, mobile technology, Internet of Things (IoT), big data, artificial intelligence (AI), augmented reality (AR), robotics, and others in the digital economy, which includes new business models, markets, goods, and services based on digital technologies. These technologies' ability to integrate goods, services, and processes gives them the potential to upend existing business models.
 
 Digital technologies are externally focused, enabling outstanding digital services and improved consumer experiences, in contrast to information technology (IT) initiatives that concentrate on internal operations. Leaders now place a high importance on digital transformation because they anticipate that IT and digital technology will help firms in increasingly strategic ways. Adoption of cutting-edge digital technologies exposes businesses to additional risks, particularly those posed by cyber security events.
