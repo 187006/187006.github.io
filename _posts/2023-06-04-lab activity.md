@@ -1,4 +1,9 @@
-
+layout: post
+title: Lab activity
+subtitle: Digitalisation
+categories: Cybersecurity
+tags: [Cybersecurity]
+---
 
 ### Identifying Search Options in Metasploit
 
