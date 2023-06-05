@@ -2,8 +2,8 @@
 layout: post
 title: Lab 1
 subtitle: Scanning Activity
-categories: scanning
-tags: [iot]
+categories: Cybersecurity
+tags: [Cybersecurity]
 ---
 
 ## Resources
