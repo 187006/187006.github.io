@@ -20,6 +20,8 @@ in IoT; express the design and implementation issues related to ad hoc networks 
 proactive, reactive and hybrid routing; express intelligent information discovery, retrieval, and mining on IoT and express
 tools that are using in designing IoT.
 
+Reference:https://lms22-23spring.emu.edu.tr/pluginfile.php/68134/mod_resource/content/1/ITEC442-IoT%20and%20Cyber%20Secuirty.pdf
+
 
 
 
