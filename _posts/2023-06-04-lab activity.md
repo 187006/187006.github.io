@@ -11,20 +11,20 @@ tags: [Cybersecurity]
 first we started with the command line 
   
     service postgressql start 
+    
 ![datacamp certification](/assets/images/banners/labactivity1/1.png)
  
  to initialize the database we wrote this command
- 
       msfdb int
   then to display the search command option 
-  
       msfconsole search -h
       
 [datacamp certification](/assets/images/banners/labactivity1/2.png)
 
 to search the common vunubitlys we wrote 
 
-   msfconsole search CVE-2013-2465
+     msfconsole search CVE-2013-2465
+   
 ![datacamp certification](/assets/images/banners/labactivity1/3.png)
 
 ### Analysing the Capture File to Find the Attack(s)
