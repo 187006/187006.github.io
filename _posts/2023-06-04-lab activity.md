@@ -15,8 +15,11 @@ first we started with the command line
 ![datacamp certification](/assets/images/banners/labactivity1/1.png)
  
  to initialize the database we wrote this command
-      msfdb int
-  then to display the search command option 
+ 
+    msfdb int
+ 
+ then to display the search command option 
+      
       msfconsole search -h
       
 [datacamp certification](/assets/images/banners/labactivity1/2.png)
