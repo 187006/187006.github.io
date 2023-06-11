@@ -19,6 +19,7 @@ first we started with the command line
   then to display the search command option 
   
       msfconsole search -h
+      
 [datacamp certification](/assets/images/banners/labactivity1/2.png)
 
 to search the common vunubitlys we wrote 
