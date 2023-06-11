@@ -88,4 +88,4 @@ One lab activity we couldn't do was using the GMER software because our antiviru
 
 First of all, the lab activities were diverse and interesting, especially the test malware activity that allowed us to see how our antivirus software works. I didn't even know something like that existed. Additionally, the Wireshark activities were fascinating, as they showcased the various capabilities of Wireshark.
 
-Overall, it was a fun and truly interesting experience. I learned new things such as how spoofing works, how to analyze capture files, and how to identify search options in Metasploit, among others. It was a new and valuable learning experience, and I'm happy that I had the opportunity to participate in it.
+Overall, it was a fun and truly interesting experience. I learned new things such as how Confirming the spoofing , how to analyze capture files, and how to identify search options in Metasploit, among others. It was a new and valuable learning experience, and I'm happy that I had the opportunity to participate in it.
