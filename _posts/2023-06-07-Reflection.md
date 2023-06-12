@@ -1,9 +1,16 @@
-
+---
+layout: post
+title:  Reflection
+subtitle:  Reflection
+categories: Cybersecurity
+tags: [Reflection]
+---
 
 
 I had a lot of fun learning new stuff. It was also interesting to gain new experience in this field. I didn't have any previous knowledge about IoT or cybersecurity, so I learned a lot of new things that I think will help me in my life.
 
 What I did and learned:
+
 Creating the e-portfolio was a new, interesting, and somewhat difficult task, but I had fun doing it. I learned about Kali and all the scanning commands that we had in class, as well as Wireshark. It was really interesting to see how all of that worked.
 
 In terms of cybersecurity, I learned about scanning tools, Wireshark, honeypots, possible threats to the industry, and their mitigations. I also learned about firewalls, types of attacks, the STRIDE and DREAD frameworks, and the CIA and AAA models.
