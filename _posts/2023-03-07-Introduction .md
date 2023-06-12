@@ -16,17 +16,8 @@ I appreciate you visiting my e-portfolio, and I hope you find it informative. Al
 
 ## Descripton 
 
-The aim of this course is to express why cybersecurity is a societal imperative; analyze the tradeoffs of balancing key
-security properties like confidentiality, integrity, and availability; contrast the roles of prevention, deterrence, and
-detection mechanisms; document the role of formal methods in creating high assurance software and systems; express
-the differences between vulnerabilities, threats, and risk; analyze a security policy and/or procedure to show where it
-considers, or fails to consider, human factors; contrast encryption, digital signatures, and hash functions; document
-standards that apply to an organization’s information security posture; contrast the internet of things with the web of
-things, with industrial internet, with pervasive computing, and with smart systems; illustrate ways to interface an IoT
-component to sensors and actuators; demonstrate several security issues and challenges of collaborative data acquisition
-in IoT; express the design and implementation issues related to ad hoc networks and contrast the difference between
-proactive, reactive and hybrid routing; express intelligent information discovery, retrieval, and mining on IoT and express
-tools that are using in designing IoT.
+The aim of this course is to express why cybersecurity is a societal imperative; analyze the tradeoffs of balancing key security properties like confidentiality, integrity, and availability; Compare the functions of the mechanisms for detection, deterrence, and prevention; record how formal methods are used to create high-assurance software and systems; describe the variations between risks, threats, and vulnerabilities; analyze a security policy or procedure to show where it takes human factors into account or not; Compare and contrast hash functions, digital signatures, and encryption; standards for an organization's information security posture should be documented; 
+Compare the internet of things to the industrial internet, the web of things, pervasive computing, and smart systems; describe how to connect an IoT component to sensors and actuators; demonstrate a number of security issues and difficulties with cooperative IoT data acquisition; describe the challenges involved in the design and implementation of ad hoc networks and compare proactive, reactive, and hybrid routing; express tools used in IoT design as well as intelligent information discovery, retrieval, and mining.
 
 Reference:https://lms22-23spring.emu.edu.tr/pluginfile.php/68134/mod_resource/content/1/ITEC442-IoT%20and%20Cyber%20Secuirty.pdf
 
